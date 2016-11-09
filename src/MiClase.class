@@ -12,5 +12,9 @@
  		this.entero=e;
  	}
 
+ 	public void sumarEntero(entero e){
+ 		setEntero(getEntero()+e);
+ 	}
+
 
  }

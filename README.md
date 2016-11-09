@@ -6,3 +6,5 @@ A pedido de la catedra se crea este archivo y todo su contenido, con el fin de t
 
 
 en este primer commit creamos un nievo archivo css y un directorio vacio, mas la modificacion de este archivo
+
+para el tercer commit agregamos un metodo en la clase MiClase y realizamos esta modificacion
