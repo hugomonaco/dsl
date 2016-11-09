@@ -1,0 +1,16 @@
+ public MiClase{
+
+ 	private int entero;
+
+ 	public static MiClase(){}
+
+ 	public int getEntero(){
+ 	return entero;
+ 	}
+
+ 	public void setEntero(int e){
+ 		this.entero=e;
+ 	}
+
+
+ }
